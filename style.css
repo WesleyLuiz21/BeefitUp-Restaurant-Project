@@ -1,3 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Source+Sans+Pro:wght@200;300;400;600;700&display=swap'); /* added Permanent Marker and Source Sans pro fonts */
+
+/*------------------------------- Design Color variables */
+:root {
+  --red-color: #d21717;
+  --black-color: #0c0c0c;
+  --light-black-color: #121214;
+  --gray-color: #969696;
+  --white-color: #fff;
+}
 body {
     box-sizing: border-box;
 }
+/*------------------------------- Universal Selectors */
+
+/*------------------------------- Header */
+
+/*------------------------------- Main Section */
+
+/*------------------------------- About Section */
+
+/*------------------------------- Footer */
