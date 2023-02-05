@@ -9,7 +9,6 @@
   --white-color: #fff;
 }
 body {
-    box-sizing: border-box;
     font-family: 'Source Sans Pro', sans-serif;
 }
 /*------------------------------- Universal Selectors */
@@ -19,14 +18,13 @@ a,h1 ,h2 ,h3  {
 
 /*------------------------------- General Selectors */
 nav {
-    padding: 0 70px !important;
+    padding: 15px 70px !important;
 }
 /*------------------------------- Buttons */
 
 /*------------------------------- Header */
 header {
     background-color: #0c0c0c;
-    height: 84px;
     display: flex;
 }
 
@@ -43,3 +41,10 @@ header {
 /*------------------------------- About Section */
 
 /*------------------------------- Footer */
+
+/*------------------------------- Media Queries */
+@media (max-width:1440px) {
+    nav {
+        padding: 15px 0px !important;
+    }
+}
