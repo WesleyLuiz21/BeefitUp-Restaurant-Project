@@ -14,7 +14,11 @@ body {
 /*------------------------------- Universal Selectors */
 
 /*------------------------------- Header */
-
+header {
+    background-color: #0c0c0c;
+    height: 84px;
+    display: flex;
+}
 /*------------------------------- Main Section */
 
 /*------------------------------- About Section */
