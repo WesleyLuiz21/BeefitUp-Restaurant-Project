@@ -13,12 +13,17 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 /*------------------------------- Universal Selectors */
-
+a,h1 ,h2 ,h3  {
+    color: var(--white-color);
+}
 /*------------------------------- Header */
 header {
     background-color: #0c0c0c;
     height: 84px;
     display: flex;
+}
+.nav-active {
+    color: var(--red-color);
 }
 /*------------------------------- Main Section */
 
