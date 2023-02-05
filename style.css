@@ -23,7 +23,9 @@ h1 {
 h2, p {
     color: var(--gray-color);
 }
-
+p {
+    font-size: 1rem;
+}
 /*------------------------------- General Selectors */
 nav, .about-div {
     padding: 15px 70px !important;
@@ -84,6 +86,9 @@ nav .nav-item a:hover {
 .about-section {
     background-color: var(--black-color);
 }
+.p-width {
+    max-width: 600px;
+}
 /*------------------------------- Footer */
 
 /*------------------------------- Media Queries */
@@ -93,5 +98,10 @@ nav .nav-item a:hover {
     }
     .img-logo {
         width: 80%;
+    }
+}
+@media (min-width:1440px) {
+    p {
+        font-size: 1.2rem;
     }
 }
