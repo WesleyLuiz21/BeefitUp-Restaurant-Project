@@ -16,15 +16,28 @@ body {
 a,h1 ,h2 ,h3  {
     color: var(--white-color);
 }
+
+/*------------------------------- General Selectors */
+nav {
+    padding: 0 70px !important;
+}
+/*------------------------------- Buttons */
+
 /*------------------------------- Header */
 header {
     background-color: #0c0c0c;
     height: 84px;
     display: flex;
 }
+
 .nav-active {
     color: var(--red-color);
 }
+.nav-item {
+    padding-left: 15px;
+}
+
+
 /*------------------------------- Main Section */
 
 /*------------------------------- About Section */
