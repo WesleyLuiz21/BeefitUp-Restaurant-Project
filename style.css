@@ -16,11 +16,16 @@ body {
 a,h1 ,h2 ,h3  {
     color: var(--white-color);
 }
-h2 {
+h1 {
+    font-family: 'Permanent Marker', sans-serif;
+    text-transform: uppercase;
+}
+h2, p {
     color: var(--gray-color);
 }
+
 /*------------------------------- General Selectors */
-nav {
+nav, .about-div {
     padding: 15px 70px !important;
 }
 
@@ -76,12 +81,17 @@ nav .nav-item a:hover {
     margin: 5px 0;
 }
 /*------------------------------- About Section */
-
+.about-section {
+    background-color: var(--black-color);
+}
 /*------------------------------- Footer */
 
 /*------------------------------- Media Queries */
 @media (max-width:1440px) {
     nav {
         padding: 15px 0px !important;
+    }
+    .img-logo {
+        width: 80%;
     }
 }
