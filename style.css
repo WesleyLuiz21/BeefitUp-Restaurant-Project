@@ -7,6 +7,7 @@
   --light-black-color: #121214;
   --gray-color: #969696;
   --white-color: #fff;
+  font-size: 16px;
 }
 body {
     font-family: 'Source Sans Pro', sans-serif;
@@ -20,7 +21,14 @@ a,h1 ,h2 ,h3  {
 nav {
     padding: 15px 70px !important;
 }
+
 /*------------------------------- Buttons */
+.navbar-toggler {
+    font-size: 1.5rem; 
+}
+.navbar-toggler:focus {
+    box-shadow: none; /* for some reason it removes the button outline */
+}
 
 /*------------------------------- Header */
 header {
@@ -30,9 +38,14 @@ header {
 
 .nav-active {
     color: var(--red-color);
+    font-weight: 600;
 }
 .nav-item {
     padding-left: 15px;
+}
+nav .nav-item a:hover {
+    color: var(--gray-color) !important;
+    transition: 200ms;
 }
 
 
