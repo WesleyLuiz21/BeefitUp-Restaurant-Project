@@ -146,6 +146,11 @@ carousel-section {
 .menu-section {
     background-color: var(--black-color);
 }
+/*------------------------------- Contact Section*/
+.contact-section {
+    background-color: var(--black-color);
+    height: 80vh;
+}
 /*------------------------------- Media Queries */
 @media (max-width:1440px) {
     nav {
