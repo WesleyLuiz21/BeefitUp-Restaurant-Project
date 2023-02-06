@@ -130,11 +130,6 @@ footer {
 }
 
 /*------------------------------- Carousel Section*/
-carousel-section {
-    height: 80vh;
-      overflow: hidden;
-      padding: 0;
-}
 .carousel-inner {
     background-color: #000000;
 }
