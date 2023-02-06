@@ -157,6 +157,9 @@ carousel-section {
     font-size: 1.3rem;
     cursor: pointer;
 }
+.contact-link:hover {
+    color: var(--red-color);
+}
 /*------------------------------- Media Queries */
 @media (max-width:1440px) {
     nav {
