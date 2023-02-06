@@ -106,7 +106,9 @@ nav .nav-item a:hover {
     background-position: center;
 }
 /*------------------------------- Footer */
-
+footer {
+    background-color: var(--red-color);
+}
 /*------------------------------- Media Queries */
 @media (max-width:1440px) {
     nav {
