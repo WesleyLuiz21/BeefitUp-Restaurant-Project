@@ -151,6 +151,11 @@ carousel-section {
     background-color: var(--black-color);
     height: 80vh;
 }
+.contact-link {
+    text-decoration: underline;
+    color: var(--gray-color);
+    font-size: 1.3rem;
+}
 /*------------------------------- Media Queries */
 @media (max-width:1440px) {
     nav {
