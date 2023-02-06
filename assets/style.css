@@ -67,6 +67,10 @@ nav {
 .fa-brands {
     font-size: 1.7rem;
     margin-left: 4px;
+    transition: 200ms;
+}
+.fa-brands:hover {
+    color: var(--gray-color);
 }
 /*------------------------------- Header */
 header {
