@@ -155,6 +155,7 @@ carousel-section {
     text-decoration: underline;
     color: var(--gray-color);
     font-size: 1.3rem;
+    cursor: pointer;
 }
 /*------------------------------- Media Queries */
 @media (max-width:1440px) {
