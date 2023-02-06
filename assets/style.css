@@ -146,6 +146,14 @@ footer {
     background-color: var(--black-color);
 }
 /*------------------------------- Contact Section*/
+.locations-section {
+    height: 80vh;
+    background-color: var(--black-color);
+}
+.locations-div {
+    padding-top: 100px;
+}
+/*------------------------------- Contact Section*/
 .contact-section {
     background-color: var(--black-color);
     height: 80vh;
