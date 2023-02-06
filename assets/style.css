@@ -53,6 +53,9 @@ nav {
     top: 1px;
     padding-left: 5px;
 }
+.fa-brands {
+    font-size: 1.6rem;
+}
 /*------------------------------- Header */
 header {
     display: flex;
