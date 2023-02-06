@@ -128,6 +128,21 @@ nav .nav-item a:hover {
 footer {
     background-color: var(--red-color);
 }
+
+/*------------------------------- Carousel IMG*/
+carousel-section {
+    height: 80vh;
+      overflow: hidden;
+      padding: 0;
+}
+.carousel-inner {
+    background-color: #000000;
+}
+.carousel-item {
+    max-height: 85vh;
+    opacity: 0.4 !important;
+}
+
 /*------------------------------- Media Queries */
 @media (max-width:1440px) {
     nav {
