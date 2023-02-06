@@ -129,7 +129,7 @@ footer {
     background-color: var(--red-color);
 }
 
-/*------------------------------- Carousel IMG*/
+/*------------------------------- Carousel Section*/
 carousel-section {
     height: 80vh;
       overflow: hidden;
@@ -142,7 +142,10 @@ carousel-section {
     max-height: 85vh;
     opacity: 0.4 !important;
 }
-
+/*------------------------------- Menu Section*/
+.menu-section {
+    background-color: var(--black-color);
+}
 /*------------------------------- Media Queries */
 @media (max-width:1440px) {
     nav {
