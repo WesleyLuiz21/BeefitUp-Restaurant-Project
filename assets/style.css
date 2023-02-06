@@ -134,7 +134,7 @@ footer {
     background-color: #000000;
 }
 .carousel-item {
-    height: 32rem;
+    height: 80vh;
     background-position: center;
     background-size: cover;
     opacity: 0.5;
