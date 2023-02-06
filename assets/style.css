@@ -147,13 +147,18 @@ footer {
 .menu-section {
     background-color: var(--black-color);
 }
-/*------------------------------- Contact Section*/
+/*------------------------------- Locations Section*/
 .locations-section {
     height: 80vh;
     background-color: var(--black-color);
 }
 .locations-div {
     padding-top: 100px;
+}
+.card {
+    background-color: var(--light-black-color);
+    border-radius: 0;
+    border: none;
 }
 /*------------------------------- Contact Section*/
 .contact-section {
@@ -206,5 +211,6 @@ footer {
         height: 100%;
         width: auto;
     }
+
     
 }
