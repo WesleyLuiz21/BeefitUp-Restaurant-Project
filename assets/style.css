@@ -149,7 +149,6 @@ footer {
 }
 /*------------------------------- Locations Section*/
 .locations-section {
-    height: 80vh;
     background-color: var(--black-color);
 }
 .locations-div {
