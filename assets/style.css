@@ -80,7 +80,11 @@ nav {
 }
 /*------------------------------- Header */
 header {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
+    -webkit-transition: 500ms;
+    -o-transition: 500ms;
     transition: 500ms;
 }
 
