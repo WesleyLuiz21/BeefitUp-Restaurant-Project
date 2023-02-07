@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Source+Sans+Pro:wght@200;300;400;600;700&display=swap'); /* added Permanent Marker and Source Sans pro fonts */
 
 /*------------------------------- Design Color variables */
+
 :root {
   --red-color: #d21717;
   --black-color: #0c0c0c;
@@ -12,7 +13,9 @@
 body {
     font-family: 'Source Sans Pro', sans-serif;
 }
+
 /*------------------------------- Universal Selectors */
+
 a,h1 ,h2 ,h3  {
     color: var(--white-color);
 }
@@ -41,12 +44,15 @@ p {
 a {
     text-decoration: none;
 }
+
 /*------------------------------- General Selectors */
+
 nav {
     padding: 15px 70px !important;
 }
 
 /*------------------------------- Buttons */
+
 .navbar-toggler {
     font-size: 1.5rem; 
 }
@@ -62,7 +68,9 @@ nav {
 .btn-locations:hover {
     background-color: #8d0404;
 }
+
 /*------------------------------- Icons*/
+
 .fa-arrow-right {
     position: relative;
     top: 1px;
@@ -78,7 +86,9 @@ nav {
 .fa-brands:hover {
     color: var(--gray-color);
 }
+
 /*------------------------------- Header */
+
 header {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -87,7 +97,6 @@ header {
     -o-transition: 500ms;
     transition: 500ms;
 }
-
 .nav-active {
     color: var(--red-color);
     font-weight: 600;
@@ -101,6 +110,7 @@ nav .nav-item a:hover {
 }
 
 /*------------------------------- Main Section */
+
 .main-section {
     height: 80vh;
     background: linear-gradient(
@@ -114,7 +124,9 @@ nav .nav-item a:hover {
 .img-logo {
     margin: 5px 0;
 }
+
 /*------------------------------- About Section */
+
 .about-section {
     background-color: var(--black-color);
     padding-right: 0px;
@@ -136,12 +148,15 @@ nav .nav-item a:hover {
     background-size: cover;
     background-position: center;
 }
+
 /*------------------------------- Footer */
+
 footer {
     background-color: var(--red-color);
 }
 
 /*------------------------------- Carousel Section*/
+
 .carousel-inner {
     background-color: #000000;
 }
@@ -155,11 +170,15 @@ footer {
     height: auto;
     width: 100%;
 }
+
 /*------------------------------- Menu Section*/
+
 .menu-section {
     background-color: var(--black-color);
 }
+
 /*------------------------------- Locations Section*/
+
 .locations-section {
     background-color: var(--black-color);
 }
@@ -171,7 +190,9 @@ footer {
     border-radius: 0;
     border: none;
 }
+
 /*------------------------------- Contact Section*/
+
 .contact-section {
     background-color: var(--black-color);
     height: 80vh;
@@ -185,7 +206,9 @@ footer {
 .contact-link:hover {
     color: var(--red-color);
 }
+
 /*------------------------------- Media Queries */
+
 @media (max-width:1440px) {
     nav {
         padding: 15px 0px !important;
@@ -218,8 +241,8 @@ footer {
         height: 500px;
     }
   
-      /* Adjust height of each slide */
-      .carousel-item {
+      /* Adjust height of each slide  on the mobile version*/
+     .carousel-item {
         height: 500px;
     }
     .img-carousel {
