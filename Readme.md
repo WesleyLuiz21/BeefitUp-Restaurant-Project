@@ -90,4 +90,12 @@
 
 ## Deployment
 
+## Testing
+### Devices Used:
+
+* Google Pixel 6
+* Desktop (1920x1080)
+* Desktop (2 monitors and 4k resolution)
+* Laptop (1366x768)
+
 ## Extra 
