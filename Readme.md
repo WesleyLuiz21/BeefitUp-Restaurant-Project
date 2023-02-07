@@ -25,6 +25,14 @@
 
 ## Features
 
+* Home Page
+* About Section
+* Restaurant Locations and Opening times
+* Contact Page
+* Boostrap Carousel Images
+* Bootstrap Cards for the Restaurants locations
+* Responsive design
+* Responsive navigation bar that has a script that change color/state when the user scrolls up and down the page
 
 ## UI/UX
 
@@ -59,11 +67,16 @@
 
 #### Design Choices
 
+* I decided the make my own logo using the matching color scheme(red and white for the text)
 
-#### Color
+![Design Assets](./docs/images/design-assets.png)
+
+#### Color Choices
 
 * The color scheme I selected was red, gray, white and black.
 * There is two tons of gray, one is to the p text color and the darker one is to the Restaurant Locations card
+* I have added a light gray color to the p elements to diferentiate the p elements from the h1,h2... while still looking good.
+* 
 
 
 #### Images
@@ -72,9 +85,9 @@
 
 #### Fonts 
 
-* Permanent Marker - I choose this one because it gives a Restaurant Menu title feeling
+* Permanent Marker - I choose this one because it gives a Restaurant Menu title feeling.
 
-* Source Sans Pro - I choose this one to the general text and to have an actual normal font
+* Source Sans Pro - I choose this one to the general text and to have an actual normal font.
 
 ## Technologies
 
@@ -87,10 +100,14 @@
 * Font Awesome
 * Google Fonts API
 * Figma
+* Figma Unsplash Extension
 
 ## Deployment
 
+## Bugs 
+
 ## Testing
+
 ### Devices Used:
 
 * Google Pixel 6
