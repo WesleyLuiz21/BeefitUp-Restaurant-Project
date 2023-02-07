@@ -106,6 +106,8 @@ header {
 }
 nav .nav-item a:hover {
     color: var(--gray-color) !important;
+    -webkit-transition: 200ms;
+    -o-transition: 200ms;
     transition: 200ms;
 }
 
