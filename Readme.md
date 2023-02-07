@@ -97,16 +97,27 @@
 ## Technologies
 
 * HTML
+   * Developed with HTML5.
 * CSS3
+   * Website styled with CSS3.
 * Javascript (just a small script)
+   * Added a small script to change the background color of the navigation bar when the user scroll up and down.
 * Bootstrap 5
+   * Website's structure build with Bootstrap 5.0.2 and custom css
 * VS Code
+   * Developed the entire Website using VS Code as I felt more confortable with it.
 * Git
+   * Used Git bash to push and commit code.
 * Github
+   * Used to host the source code and Git Pages to deploy the website. 
 * Font Awesome
+   * Used Font Awesome library to add the social media icons and the hamburger navigation icon.
 * Google Fonts API
+   * Used to select the fonts I've choosen for the project.
 * Figma
+   * Used to sketch, wireframe and design the whole project.
 * Figma Unsplash Extension
+   * Used to obtain high quality images free of copyrights to the project.
 
 ## Deployment
 
