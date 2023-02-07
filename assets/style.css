@@ -51,6 +51,7 @@ nav {
     font-size: 1.5rem; 
 }
 .navbar-toggler:focus {
+    -webkit-box-shadow: none;
     box-shadow: none; /* for some reason it removes the button outline */
 }
 .btn-locations {
