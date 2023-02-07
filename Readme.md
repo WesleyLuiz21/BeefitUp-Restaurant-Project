@@ -10,6 +10,7 @@
 
 * The main goal is to provide a good user experience,connect and show futher information to the new and existing customers.
 * Make the Restaurant look more professional and attractive for customers to attend.
+* Show a bit of the Restaurant backstory to the customers
 
 ### Owner's Goal
 
@@ -41,6 +42,7 @@
 
 * The Website's sketch and wireframe was created in Figma as I felt more confortable with it.
 * I've decided to create a wireframe/sketch and then design the whole project with Figma.
+* Open the image in a new tab if possible to be able to actually see the sketch image.
 
 ![Wireframe Image](./docs/images/wireframe.png)
 
@@ -76,7 +78,8 @@
 * The color scheme I selected was red, gray, white and black.
 * There is two tons of gray, one is to the p text color and the darker one is to the Restaurant Locations card
 * I have added a light gray color to the p elements to diferentiate the p elements from the h1,h2... while still looking good.
-* 
+* I have choose the red color to be the contrast color of the design, mainly because it is a warm color and can remind of fire/fireplaces and meat.
+* I have choose the black color as the background color as it doesn't make the text hard to read while making a good match with red and white.
 
 
 #### Images
