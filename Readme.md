@@ -70,6 +70,12 @@
 
 * All images were taken from [Unsplash](https://unsplash.com/)
 
+#### Fonts 
+
+* Permanent Marker - I choose this one because it gives a Restaurant Menu title feeling
+
+* Source Sans Pro - I choose this one to the general text and to have an actual normal font
+
 ## Technologies
 
 ## Deployment
