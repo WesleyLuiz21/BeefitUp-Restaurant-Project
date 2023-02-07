@@ -8,7 +8,7 @@
 
 ## Project Goal
 
-* The main goal is to connect and show futher information to the new and existing customers.
+* The main goal is to provide a good user experience,connect and show futher information to the new and existing customers.
 * Make the Restaurant look more professional and attractive for customers to attend.
 
 ### Owner's Goal
@@ -17,6 +17,7 @@
 * Also, let new and current customers get information about the restaurant locations and opening times.
 * Make it easier to get in touch with the restaurant.
 * Make it easier to find the restaurant social media pages.
+* Show the Restaurant looks.
 
 ### External Goal
 
@@ -24,7 +25,9 @@
 
 ## Features
 
+
 ## UI/UX
+
 
 ### Wireframes
 
@@ -54,6 +57,9 @@
 
 ![Contact Page](./docs/images/contact-page.png)
 
+#### Design Choices
+
+
 #### Color
 
 * The color scheme I selected was red, gray, white and black.
@@ -61,6 +67,8 @@
 
 
 #### Images
+
+* All images were taken from [Unsplash](https://unsplash.com/)
 
 ## Technologies
 
