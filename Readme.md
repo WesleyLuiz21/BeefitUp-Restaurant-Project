@@ -78,6 +78,16 @@
 
 ## Technologies
 
+* HTML
+* CSS3
+* Javascript (just a small script)
+* Bootstrap 5
+* Git
+* Github
+* Font Awesome
+* Google Fonts API
+* Figma
+
 ## Deployment
 
 ## Extra 
