@@ -3,7 +3,7 @@
 ![Home Image](./docs/images/home-img.png)
 
 ## Introduction
-* [Website-link](https://wesleyluiz21.github.io/BeefitUp-Restaurant-Project/)
+* [Website Live](https://wesleyluiz21.github.io/BeefitUp-Restaurant-Project/)
 
 ## Project Goal
 
