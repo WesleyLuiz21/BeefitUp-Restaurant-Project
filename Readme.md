@@ -3,13 +3,24 @@
 ![Home Image](./docs/images/home-img.png)
 
 ## Introduction
+* A small Website built for a Steakhouse Restaurant with a simple but eye catching design.
 * [Website Live](https://wesleyluiz21.github.io/BeefitUp-Restaurant-Project/)
 
 ## Project Goal
 
+* The main goal is to connect and show futher information to the new and existing customers.
+* Make the Restaurant look more professional and attractive for customers to attend.
+
 ### Owner's Goal
 
+* The main goal is to catch new potential customers.
+* Also, let new and current customers get information about the restaurant locations and opening times.
+* Make it easier to get in touch with the restaurant.
+* Make it easier to find the restaurant social media pages.
+
 ### External Goal
+
+* The main goal is to have a website that matches both the restaurant philosophy and brand design.
 
 ## Features
 
@@ -23,7 +34,8 @@
 
 ### Design
 
-* I have designed the project with Figma.
+* Project designed with Figma.
+* I tried to build the website following every page design carefully.
 
 #### Main Page Design
 
