@@ -95,6 +95,7 @@
 * CSS3
 * Javascript (just a small script)
 * Bootstrap 5
+* VS Code
 * Git
 * Github
 * Font Awesome
@@ -104,7 +105,12 @@
 
 ## Deployment
 
+* I was supposed to use Gitpod for this project, however I have decided to use the desktop VS Code as I'm very familiar with it and I felt it would slow me down.
+
+
 ## Bugs 
+
+* The initial plan was to use Bootstrap 6, however I had to go back to bootstrap 5 as I been struggling to make things work and I felt like it was a better choice overall.
 
 ## Testing
 
