@@ -16,13 +16,15 @@
 ## UI/UX
 
 ### Wireframes
+* The Website's wireframe was created in Figma as I felt more confortable with it.
+* I've decided to create a wireframe/sketch first and then design the whole project with figma.
+![Wireframe Image](./docs/images/wireframe.png.png)
+
 
 ### Design
 
 ## Technologies
 
 ## Deployment
-
-
 
 ## Extra 
