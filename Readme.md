@@ -28,28 +28,29 @@
 
 ### Wireframes
 
-* The Website's wireframe was created in Figma as I felt more confortable with it.
-* I've decided to create a wireframe/sketch first and then design the whole project with Figma.
+* The Website's sketch and wireframe was created in Figma as I felt more confortable with it.
+* I've decided to create a wireframe/sketch and then design the whole project with Figma.
+
 ![Wireframe Image](./docs/images/wireframe.png)
 
 ### Design
 
-* Project designed with Figma.
+* I've decided to make more complex wireframes with Figma, as I felt it would save me time having the entire page design ready to be built
 * I tried to build the website following every page design carefully.
 
-#### Main Page Design
+#### Main Page Design/Wireframe
 
 ![Main Page](./docs/images/main-page.png)
 
-#### Menu Page Design
+#### Menu Page Design/Wireframe
 
 ![Menu Page](./docs/images/menu-page.png)
 
-#### Locations Page Design
+#### Locations Page Design/Wireframe
 
 ![Locations Page](./docs/images/locations-page.png)
 
-#### Contact Page Design
+#### Contact Page Design/Wireframe
 
 ![Contact Page](./docs/images/contact-page.png)
 
