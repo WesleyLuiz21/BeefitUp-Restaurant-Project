@@ -16,12 +16,21 @@
 ## UI/UX
 
 ### Wireframes
+
 * The Website's wireframe was created in Figma as I felt more confortable with it.
-* I've decided to create a wireframe/sketch first and then design the whole project with figma.
+* I've decided to create a wireframe/sketch first and then design the whole project with Figma.
 ![Wireframe Image](./docs/images/wireframe.png)
 
-
 ### Design
+
+* I have designed the project with Figma.
+
+#### Color
+
+* The color scheme I selected was red, gray and black.
+
+
+#### Images
 
 ## Technologies
 
