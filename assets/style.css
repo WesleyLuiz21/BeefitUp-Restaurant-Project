@@ -71,6 +71,8 @@ nav {
 .fa-brands {
     font-size: 1.7rem;
     margin-left: 4px;
+    -webkit-transition: 200ms;
+    -o-transition: 200ms;
     transition: 200ms;
 }
 .fa-brands:hover {
