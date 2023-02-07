@@ -69,7 +69,8 @@
 
 #### Design Choices
 
-* I decided the make my own logo using the matching color scheme(red and white for the text)
+* I've decided the make my own logo using the matching color scheme(red and white for the text).
+* I've decided to make the logo as SVG file so I could use it for both the navigation bar and Home page.
 
 ![Design Assets](./docs/images/design-assets.png)
 
@@ -136,5 +137,7 @@
 * Desktop (1920x1080)
 * Desktop (2 monitors and 4k resolution)
 * Laptop (1366x768)
+
+### Validators
 
 ## Extra 
