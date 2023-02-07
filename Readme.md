@@ -122,14 +122,19 @@
 
 ## Deployment
 
-* I was supposed to use Gitpod for this project, however I have decided to use the desktop VS Code as I'm very familiar with it and I felt it would slow me down.
+* I was supposed to use Gitpod for this project, however I have decided to use the desktop VS Code as I'm very familiar with it and I felt like Gitpod would slow me down.
 
 
 ## Bugs 
 
 * The initial plan was to use Bootstrap 6, however I had to go back to bootstrap 5 as I been struggling to make things work and I felt like it was a better choice overall.
+* At first, in the process of creating the navigation bar with bootstrap, the code wasn't behaving the way it was supposed to be.
+  * Fixed by reading the bootstrap 5 documentation carefully and decided to use the bootstrap navigation template.
 
 ## Testing
+
+### Lighthouse Chrome Testing
+
 
 ### Devices Used:
 
