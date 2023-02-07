@@ -76,7 +76,7 @@
 #### Color Choices
 
 * The color scheme I selected was red, gray, white and black.
-* There is two tons of gray, one is to the p text color and the darker one is to the Restaurant Locations card
+* There is two tons of gray, one is to the p text color and the darker one is to the Restaurant Locations card.
 * I have added a light gray color to the p elements to diferentiate the p elements from the h1,h2... while still looking good.
 * I have choose the red color to be the contrast color of the design, mainly because it is a warm color and can remind of fire/fireplaces and meat.
 * I have choose the black color as the background color as it doesn't make the text hard to read while making a good match with red and white.
@@ -85,10 +85,12 @@
 #### Images
 
 * All images were taken from [Unsplash](https://unsplash.com/)
+* The Unsplash Extension in Figma was very handy, making possible searching for the right images, free of copyrights.
+* Then I was able to get to the image page in the Unsplash website through Figma.
 
 #### Fonts 
 
-* Permanent Marker - I choose this one because it gives a Restaurant Menu title feeling.
+* Permanent Marker - I choose this one because it gives a Restaurant Menu title feeling.(I found this font accidentally by playing with fonts in Figma/Photoshop and I felt it would fit the project design).
 
 * Source Sans Pro - I choose this one to the general text and to have an actual normal font.
 
