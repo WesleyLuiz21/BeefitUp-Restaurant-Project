@@ -25,9 +25,21 @@
 
 * I have designed the project with Figma.
 
-* Main Page
+#### Main Page Design
 
 ![Main Page](./docs/images/main-page.png)
+
+#### Menu Page Design
+
+![Menu Page](./docs/images/menu-page.png)
+
+#### Locations Page Design
+
+![Locations Page](./docs/images/locations-page.png)
+
+#### Contact Page Design
+
+![Contact Page](./docs/images/contact-page.png)
 
 #### Color
 
