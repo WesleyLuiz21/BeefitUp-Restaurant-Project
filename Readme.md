@@ -26,11 +26,13 @@
 * I have designed the project with Figma.
 
 * Main Page
+
 ![Main Page](./docs/images/main-page.png)
 
 #### Color
 
-* The color scheme I selected was red, gray and black.
+* The color scheme I selected was red, gray, white and black.
+* There is two tons of gray, one is to the p text color and the darker one is to the Restaurant Locations card
 
 
 #### Images
