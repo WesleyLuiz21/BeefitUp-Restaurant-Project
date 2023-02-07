@@ -107,10 +107,12 @@ nav .nav-item a:hover {
 /*------------------------------- About Section */
 .about-section {
     background-color: var(--black-color);
+    padding-right: 0px;
 }
 .about-div {
     padding-right: 0;
     padding-left: 70px;
+    margin-left: 0;
 }
 .p-width {
     max-width: 600px;
@@ -197,6 +199,10 @@ footer {
         padding: 0;
         margin: 0 auto;
         text-align: center;
+        margin: 0;
+    }
+    .about-section {
+        padding-right: 12px;
     }
     .carousel {
         height: 500px;
