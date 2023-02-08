@@ -27,13 +27,24 @@
 ## Features
 
 * Home Page
-* About Section
-* Restaurant Locations and Opening times
+   * Main section with logo and a background image with 0.5 opacity.
+   * About Section with some backstory and an eye catching image with 0.5 opacity.
+* Menu Page
+   * A Bootstrap carousel contaaining 3 images.
+   * Restaurant menu section containing Foods and drinks information with prices.
+   * Footer with icons, logo and copyright notice.
+* Restaurant Page
+   * A H1 Title.
+   * Bootstrap cards containing restaurant images.
+   * Locations and Opening times.
 * Contact Page
-* Boostrap Carousel Images
-* Bootstrap Cards for the Restaurants locations
-* Responsive design
-* Responsive navigation bar that has a script that change color/state when the user scrolls up and down the page
+   * A H1 Title.
+   * two H2 Titles.
+   * Email links with actual 'mail to' links that opens email when clicked.
+* All pages Have:
+   * Responsive design.
+   * Responsive navigation bar that has a script that change color/state when the user scrolls up and down the page.
+   * Footer with icons, logo and copyright notice.
 
 ## UI/UX
 
@@ -41,6 +52,7 @@
 ### Wireframes
 
 * The Website's sketch and wireframe was created in Figma as I felt more confortable with it.
+* All sketchs were done with a Wacom Pen Tablet.
 * I've decided to create a wireframe/sketch and then design the whole project with Figma.
 * I've decided to not design the mobile version as I was running out of time and there is no major changes to the content.
 * Both Desktop and Mobile Sketches can be found below.
@@ -166,7 +178,7 @@
 ### Validators
 
 *  [HTML W3C Validator](https://validator.w3.org/)
-   * Found a semicolon missin in the footer copyright symbol - fixed
+   * Found a semicolon missing in the footer copyright symbol - fixed
    * Found a single double quotes in the code that had no purpose - fixed
    * Found a section tag in the menu page without closing tag - fixed
    * Found two closing div tags in the menu page that had no purpose - fixed
