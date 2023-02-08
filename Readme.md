@@ -39,7 +39,7 @@
   * [Code Related](#code-related)
 * [Extra](#extra)
 
-## Introduction
+## Introduction* [Version Control](#version-control)
 * A small Website built for a Steakhouse Restaurant with a simple but eye catching design.
 * [Website Live](https://wesleyluiz21.github.io/BeefitUp-Restaurant-Project/)
 
@@ -170,7 +170,7 @@
 * Javascript (just a small script)
    * Added a small script to change the background color of the navigation bar when the user scroll up and down.
 * Bootstrap 5
-   * Website's structure build with Bootstrap 5.0.2 and custom css
+   * Website's structure build with Bootstrap 5.0.2 and custom CSS.
 * VS Code
    * Developed the entire Website using VS Code as I felt more confortable with it.
 * Git
@@ -197,18 +197,18 @@
 
 * The website was created locally using Visual Studio Code.
 * Code was pushed to the repository using Gitbash terminal inside the Visual Studio Code.
-* Code was added to the staging area using ```git add .```
-* Changes were committed using  ```git commit -m 'comment'```
-* Code was commited to the Github repository using ```git push```
+* Code was added to the staging area using ```git add .```.
+* Changes were committed using  ```git commit -m 'comment'```.
+* Code was commited to the Github repository using ```git push```.
 
 
 ### Github Pages
 
   * The website was deployed with Github pages following the steps below:
-     * Clicked in settings icon in the github repository and then clicked in the Pages section from the left side menu
+     * Clicked in settings icon in the github repository and then clicked in the Pages section from the left side menu.
      * After that I had the option to select the Source, a branch and the root folder.
-     * After I got back to Github pages and there was a link displayed to see the live website
-     * The live link can be found [here](https://wesleyluiz21.github.io/BeefitUp-Restaurant-Project/)
+     * After I got back to Github pages and there was a link displayed to see the live website.
+     * The live link can be found [here](https://wesleyluiz21.github.io/BeefitUp-Restaurant-Project/).
 
 ## Bugs/Errors
 
