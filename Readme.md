@@ -47,7 +47,7 @@
 
 * The main goal is to provide a good user experience,connect and show futher information to the new and existing customers.
 * Make the Restaurant look more professional and attractive for customers to attend.
-* Show a bit of the Restaurant backstory to the customers
+* Show a bit of the Restaurant backstory to the customers.
 
 ### External Goal
 
@@ -62,7 +62,7 @@
    * About Section with some backstory and an eye catching image with 0.5 opacity.
 * Menu Page
    * A Bootstrap carousel contaaining 3 images.
-   * Restaurant menu section containing Foods and drinks information with prices.
+   * Restaurant menu section containing foods and drinks information with prices.
    * Footer with icons, logo and copyright notice.
 * Restaurant Page
    * A H1 Title.
@@ -72,7 +72,7 @@
    * A H1 Title.
    * two H2 Titles.
    * Email links with actual 'mail to' links that opens email when clicked.
-* All pages Have:
+* All pages have:
    * Responsive design.
    * Responsive navigation bar that has a script that change color/state when the user scrolls up and down the page.
    * Footer with icons, logo and copyright notice.
@@ -152,7 +152,7 @@
 
 #### Images
 
-* All images were taken from [Unsplash](https://unsplash.com/)
+* All images were taken from [Unsplash](https://unsplash.com/).
 * The Unsplash Extension in Figma was very handy, making possible searching for the right images, free of copyrights.
 * Then I was able to get to the image page in the Unsplash website through Figma.
 
@@ -299,7 +299,7 @@
 
   ### Pictures
 
-  * Pictures taken from [Unsplash](https://unsplash.com/)
+  * Pictures taken from [Unsplash](https://unsplash.com/):
   * [Home Page Picture](https://unsplash.com/photos/cpkPJ-U9eUM) - Author: Emerson Vieira.
   * [About Section Picture](https://unsplash.com/photos/lanootd2FcU) - Author: Emerson Vieira.
   * [1st Carousel Picture](https://unsplash.com/photos/pe9dvM1rQkM) - Author: Tim Toomey.
@@ -315,11 +315,12 @@
   * Stackoverflow and Bootstrap 5 documentation were used to solve all issues/bugs.
   * ChatGPT(or OpenIA) was used to generate random adresses in central london and restaurant description/about/goals in the About Section and then tweaked to fit the website/design(It was quite handy!).
   * CSS Prefixes code were taken from the [Autoprefixer](https://autoprefixer.github.io/) website.
+  * Template code for the navigaation bar taken from the Bootstrap 5 documentation and tweaked to suit the site needs.
   * Template code for the carousel section taken from the Bootstrap 5 documentation and tweaked to suit the site needs.
 
 ## Extra 
 
-* To me, sketching, designing and developing the project was a very good experience, however I felt so overwhelmed when I was writing the Readme, there so much information.
+* To me, sketching, designing and developing the project was a very good experience, however I felt so overwhelmed when I was writing the Readme, there was so much information to be written.
 * I can say that I have gained valuable experice with bootstrap 5 as I had to read and look carefully through the documentation in order to make things work as intended.
 * Commiting often made me memorize so many bootstrap attributes and classes.
 * I've been extremely busy in January and February so I guess I had to run agains the clock in order to finish the project in time.
