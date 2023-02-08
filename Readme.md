@@ -156,6 +156,15 @@
 * I was supposed to use Gitpod for this project, however I have decided to use the desktop VS Code as I'm very familiar with it and I felt like Gitpod would slow me down.
 * Totally created using Visual Studio code as I stated above.
 
+### Version Control
+
+* The website was created locally using Visual Studio Code.
+* Code was pushed to the repository using Gitbash terminal inside the Visual Studio Code.
+* Code was added to the staging area using ```git add .```
+* Changes were committed using  ```git commit -m 'comment'```
+* Code was commited to the Github repository using ```git push```
+
+
 ### 
 
 ## Bugs/Errors
@@ -169,6 +178,8 @@
   * Fixed by removing the HTML img attributes and added them directly to the columns css and adjusted with custom css.
 * Restaurant Cards overflowing the parent div.
   * Fixed by removing a custom CSS fixed height to the parent div.
+* Navigation links being broken in github pages.
+  * Fixed by adding './' before the page links.
 
 ## Testing
 
