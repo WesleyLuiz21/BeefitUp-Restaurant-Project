@@ -122,8 +122,12 @@
 
 ## Deployment
 
-* I was supposed to use Gitpod for this project, however I have decided to use the desktop VS Code as I'm very familiar with it and I felt like Gitpod would slow me down.
+### Overall
 
+* I was supposed to use Gitpod for this project, however I have decided to use the desktop VS Code as I'm very familiar with it and I felt like Gitpod would slow me down.
+* Totally created using Visual Studio code as I stated above.
+
+### 
 
 ## Bugs 
 
@@ -161,9 +165,10 @@
   * [4th Restaurant Picture](https://unsplash.com/photos/WWST6E8LxeE) - Author: Paul Griffin.
 
   ### Code Related
-  
+
   * Stackoverflow and Bootstrap 5 documentation were used to solve all issues/bugs.
   * ChatGPT(or OpenIA) was used to generate random adresses in central london and restaurant description/about/goal in the About Section and then tweaked to fit the website/design(It was quite handy!).
-
+  * CSS Prefixes code were taken from the [Autoprefixer](https://autoprefixer.github.io/) website.
+  * Template code for the carousel section taken from the Bootstrap 5 documentation and tweaked to suit the site needs.
 
 ## Extra 
