@@ -153,6 +153,10 @@
    * Found a semicolon missin in the footer copyright symbol - fixed
    * Found a single double quotes in the code that had no purpose - fixed
 
+*  [CSS W3C Validator](https://jigsaw.w3.org/css-validator//)
+   * No errors found.
+   ![CSS Validator Picture](./docs/validators%20images/css/css-validator.png)
+
 ## Credits
 
   ### Pictures
