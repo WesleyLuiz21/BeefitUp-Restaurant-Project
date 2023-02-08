@@ -39,7 +39,7 @@
   * [Code Related](#code-related)
 * [Extra](#extra)
 
-## Introduction* [Version Control](#version-control)
+## Introduction
 * A small Website built for a Steakhouse Restaurant with a simple but eye catching design.
 * [Website Live](https://wesleyluiz21.github.io/BeefitUp-Restaurant-Project/)
 
