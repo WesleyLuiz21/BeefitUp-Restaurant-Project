@@ -2,6 +2,14 @@
 
 ![Home Image](./docs/images/home-img.png)
 
+## Table of Contents
+
+* [Introduction](#introduction)
+* [Project Goal](#project-goal)
+   * [External Goal](#external-goal)
+* [UI/UX](#uiux)
+   * [Features](#features)
+
 ## Introduction
 * A small Website built for a Steakhouse Restaurant with a simple but eye catching design.
 * [Website Live](https://wesleyluiz21.github.io/BeefitUp-Restaurant-Project/)
