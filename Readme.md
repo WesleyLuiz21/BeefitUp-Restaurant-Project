@@ -138,6 +138,19 @@
 ## Testing
 
 ### Lighthouse Chrome Testing
+* The results for each page are presented below.
+ 
+ #### Main Page
+ ![Main Page Lighthouse](./docs/Lighthouse%20Images/main-page.png)
+
+ #### Menu Page
+ ![Menu Page Lighthouse](./docs/Lighthouse%20Images/menu.png)
+
+ #### Locations Page
+ ![Locations Page Lighthouse](./docs/Lighthouse%20Images/locations.png)
+
+  #### Contact Page
+ ![Contact Page Lighthouse](./docs/Lighthouse%20Images/contact.png)
 
 
 ### Devices Used:
