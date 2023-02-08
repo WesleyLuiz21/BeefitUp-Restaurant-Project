@@ -9,6 +9,18 @@
    * [External Goal](#external-goal)
 * [UI/UX](#uiux)
    * [Features](#features)
+   * [Target Audience](#target-audience)
+   * [Owner's Goal](#owners-goal)
+   * [User's Goals](#users-goals)
+   * [Wireframes](#wireframes)
+   * [Design](#design)
+* [Technologies](#technologies)
+* [Deployment](#deployment)
+   * [Overall](#overall)
+   * [Version Control](#version-control)
+   * [Github Pages](#github-pages)
+* [Bugs/Erros](#bugserrors)
+* [Testing](#testing)
 
 ## Introduction
 * A small Website built for a Steakhouse Restaurant with a simple but eye catching design.
