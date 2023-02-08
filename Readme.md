@@ -12,14 +12,6 @@
 * Make the Restaurant look more professional and attractive for customers to attend.
 * Show a bit of the Restaurant backstory to the customers
 
-### Owner's Goal
-
-* The main goal is to catch new potential customers.
-* Also, let new and current customers get information about the restaurant locations and opening times.
-* Make it easier to get in touch with the restaurant.
-* Make it easier to find the restaurant social media pages.
-* Show the Restaurant looks.
-
 ### External Goal
 
 * The main goal is to have a website that matches both the restaurant philosophy and brand design.
@@ -47,6 +39,23 @@
    * Responsive design.
    * Responsive navigation bar that has a script that change color/state when the user scrolls up and down the page.
    * Footer with icons, logo and copyright notice.
+
+### Owner's Goal
+
+* The main goal is to catch new potential customers.
+* Also, let new and current customers get information about the restaurant locations and opening times.
+* Make it easier to get in touch with the restaurant.
+* Make it easier to find the restaurant social media pages.
+* Show the Restaurant looks.
+
+### User's Goals
+
+*  Being able to acess restaurant information such as locations and opening times.
+*  Being able get futher information about the restaurant and it's past.
+*  Easily navigate through the Website pages.
+*  See a visual appealing website.
+*  Be able to view the Website in diffent devices.
+*  Be able to understand the website even if the user has desabilities.
 
 ### Wireframes
 
