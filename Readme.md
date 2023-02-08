@@ -274,3 +274,9 @@
   * Template code for the carousel section taken from the Bootstrap 5 documentation and tweaked to suit the site needs.
 
 ## Extra 
+
+* To me, sketching, designing and developing the project was a very good experience, however I felt so overwhelmed when I was writing the Readme, there so much information.
+* I can say that I have gained valuable experice with bootstrap 5 as I had to read and look carefully through the documentation in order to make things work as intended.
+* Commiting often made me memorize so many bootstrap attributes and classes.
+* I've been extremely busy in January and February so I guess I had to run agains the clock in order to finish the project in time.
+* I'd like to give some special thanks to my mentor Richard Wells, he gave some valuable insights to build the project. Sadly I got a little busy with life and work so I didn't manage to have the two last sessions with him.
