@@ -40,6 +40,12 @@
    * Responsive navigation bar that has a script that change color/state when the user scrolls up and down the page.
    * Footer with icons, logo and copyright notice.
 
+### Target Audience
+
+* Current customers interested find more locations of the Restaurants.
+* New customers interested in making enquires or finding more about the Restaurant chain.
+* All meat lovers.
+
 ### Owner's Goal
 
 * The main goal is to catch new potential customers.
