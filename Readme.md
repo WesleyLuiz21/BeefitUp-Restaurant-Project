@@ -149,6 +149,10 @@
 
 ### Validators
 
+*  [HTML W3C Validator](https://validator.w3.org/)
+   * Found a semicolon missin in the footer copyright symbol - fixed
+   * Found a single double quotes in the code that had no purpose - fixed
+
 ## Credits
 
   ### Pictures
