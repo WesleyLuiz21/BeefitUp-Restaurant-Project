@@ -140,9 +140,24 @@
 
 * Google Pixel 6
 * Desktop (1920x1080)
-* Desktop (2 monitors and 4k resolution)
+* Desktop (2 monitors/4k resolution)
 * Laptop (1366x768)
 
 ### Validators
+
+## Credits
+
+  ### Pictures
+  * Pictures taken from [Unsplash](https://unsplash.com/)
+  * [Home Page Picture](https://unsplash.com/photos/cpkPJ-U9eUM) - Author: Emerson Vieira.
+  * [About Section Picture](https://unsplash.com/photos/lanootd2FcU) - Author: Emerson Vieira.
+  * [1st Carousel Picture](https://unsplash.com/photos/pe9dvM1rQkM) - Author: Tim Toomey.
+  * [2nd Carousel Picture](https://unsplash.com/photos/RO6Ke69Szhg) - Author: Emerson Vieira.
+  * [3rd Carousel Picture](https://unsplash.com/photos/lanootd2FcU) - Author: Emerson Vieira. (same as the about section picture)
+  * [1st Restaurant Picture](https://unsplash.com/photos/1H30uRC1plc) - Author: Volkan Vardar.
+  * [2nd Restaurant Picture](https://unsplash.com/photos/Ciqxn7FE4vE) - Author: Nick Karvounis.
+  * [3rd Restaurant Picture](https://unsplash.com/photos/ZgREXhl8ER0) - Author: Adrien Olichon.
+  * [4th Restaurant Picture](https://unsplash.com/photos/WWST6E8LxeE) - Author: Paul Griffin.
+
 
 ## Extra 
