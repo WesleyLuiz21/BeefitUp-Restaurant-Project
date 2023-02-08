@@ -148,6 +148,7 @@
 ## Credits
 
   ### Pictures
+
   * Pictures taken from [Unsplash](https://unsplash.com/)
   * [Home Page Picture](https://unsplash.com/photos/cpkPJ-U9eUM) - Author: Emerson Vieira.
   * [About Section Picture](https://unsplash.com/photos/lanootd2FcU) - Author: Emerson Vieira.
@@ -158,6 +159,11 @@
   * [2nd Restaurant Picture](https://unsplash.com/photos/Ciqxn7FE4vE) - Author: Nick Karvounis.
   * [3rd Restaurant Picture](https://unsplash.com/photos/ZgREXhl8ER0) - Author: Adrien Olichon.
   * [4th Restaurant Picture](https://unsplash.com/photos/WWST6E8LxeE) - Author: Paul Griffin.
+
+  ### Code Related
+  
+  * Stackoverflow and Bootstrap 5 documentation were used to solve all issues/bugs.
+  * ChatGPT(or OpenIA) was used to generate random adresses in central london and restaurant description/about/goal in the About Section and then tweaked to fit the website/design(It was quite handy!).
 
 
 ## Extra 
