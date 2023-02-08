@@ -152,6 +152,21 @@
 *  [HTML W3C Validator](https://validator.w3.org/)
    * Found a semicolon missin in the footer copyright symbol - fixed
    * Found a single double quotes in the code that had no purpose - fixed
+   * Found a section tag in the menu page without closing tag - fixed
+   * Found two closing div tags in the menu page that had no purpose - fixed
+   * After fixing the above bugs/errors, there were no more errors found.
+
+   #### Main Page 
+   ![HTML Main Page Validator](./docs/validators%20images/html/main-page-validator.png)
+
+   #### Menu Page
+   ![HTML Menu Page Validator](./docs/validators%20images/html/menu-page-validator.png)
+
+   #### Locations Page
+   ![HTML Locations Page Validator](./docs/validators%20images/html/locations-validator.png)
+
+   #### Contact Page
+   ![HTML Contact Page Validator](./docs/validators%20images/html/contact-validator.png)
 
 *  [CSS W3C Validator](https://jigsaw.w3.org/css-validator//)
    * No errors found.
