@@ -197,7 +197,17 @@
 * Tested on Chrome,Firefox and Edge.
 * No issues related to the responsiveness.
 
+### Functional Testing
 
+* Navigation
+   * All links works as intended.
+
+* Footer Links 
+   * All Icon links works as intended.
+   * All footer icon links opens in a new tab.
+   
+* Main Page
+   * Button that leads to the Locations Pages works as intended. 
 
 ### Validators
 
