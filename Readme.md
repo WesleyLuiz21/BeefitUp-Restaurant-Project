@@ -42,9 +42,12 @@
 
 * The Website's sketch and wireframe was created in Figma as I felt more confortable with it.
 * I've decided to create a wireframe/sketch and then design the whole project with Figma.
+* I've decided to not design the mobile version as I was running out of time and there is no major changes to the content.
+* Both Desktop and Mobile Sketches can be found below.
 * Open the image in a new tab if possible to be able to actually see the sketch image.
 
-![Wireframe Image](./docs/images/wireframe.png)
+![Sketch Image](./docs/images/wireframe.png)
+![Sketch Image  mobile](./docs/images/sketch-mobile.png)
 
 ### Design
 
