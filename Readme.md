@@ -24,7 +24,9 @@
 
 * The main goal is to have a website that matches both the restaurant philosophy and brand design.
 
-## Features
+## UI/UX
+
+### Features
 
 * Home Page
    * Main section with logo and a background image with 0.5 opacity.
@@ -45,9 +47,6 @@
    * Responsive design.
    * Responsive navigation bar that has a script that change color/state when the user scrolls up and down the page.
    * Footer with icons, logo and copyright notice.
-
-## UI/UX
-
 
 ### Wireframes
 
