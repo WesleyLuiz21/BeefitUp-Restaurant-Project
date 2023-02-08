@@ -158,11 +158,17 @@
 
 ### 
 
-## Bugs 
+## Bugs/Errors
 
 * The initial plan was to use Bootstrap 6, however I had to go back to bootstrap 5 as I been struggling to make things work and I felt like it was a better choice overall.
 * At first, in the process of creating the navigation bar with bootstrap, the code wasn't behaving the way it was supposed to be.
   * Fixed by reading the bootstrap 5 documentation carefully and decided to use the bootstrap navigation template.
+* Found I bug causing the About have unwanted padding.
+  * I had to play with bootstrap classes and customs css to fix it.
+* Carousel Images overlapping each other in the mobile version.
+  * Fixed by removing the HTML img attributes and added them directly to the columns css and adjusted with custom css.
+* Restaurant Cards overflowing the parent div.
+  * Fixed by removing a custom CSS fixed height to the parent div.
 
 ## Testing
 
@@ -205,7 +211,7 @@
 * Footer Links 
    * All Icon links works as intended.
    * All footer icon links opens in a new tab.
-   
+
 * Main Page
    * Button that leads to the Locations Pages works as intended. 
 
