@@ -116,6 +116,7 @@
 
 * I've decided to make more complex wireframes with Figma, as I felt it would save me time having the entire page design ready to be built.
 * I tried to build the website following every page design carefully.
+* The Figma file can be downloaded [here](https://drive.google.com/u/0/uc?id=1J0J_f9aa7iJaArqWNnnm3tKH69W7S79w&export=download)
 
 #### Main Page Design/Wireframe
 
