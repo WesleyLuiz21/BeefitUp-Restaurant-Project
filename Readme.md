@@ -66,7 +66,7 @@
 ### Wireframes
 
 * The Website's sketch and wireframe was created in Figma as I felt more confortable with it.
-* All sketchs were done with a Wacom Pen Tablet.
+* All sketches were done with a Wacom Pen Tablet.
 * I've decided to create a wireframe/sketch and then design the whole project with Figma.
 * I've decided to not design the mobile version as I was running out of time and there is no major changes to the content.
 * Both Desktop and Mobile Sketches can be found below.
@@ -77,7 +77,7 @@
 
 ### Design
 
-* I've decided to make more complex wireframes with Figma, as I felt it would save me time having the entire page design ready to be built
+* I've decided to make more complex wireframes with Figma, as I felt it would save me time having the entire page design ready to be built.
 * I tried to build the website following every page design carefully.
 
 #### Main Page Design/Wireframe
@@ -188,6 +188,16 @@
 * Desktop (1920x1080)
 * Desktop (2 monitors/4k resolution)
 * Laptop (1366x768)
+
+### Responsiveness
+
+* All pages uses the bootstrap breaking points, therefore they are responsive from Mobile to Laptop and Desktop screen sizes.
+* All pages were tested using the devices above.
+* All pages were tested using the Chrome Developer Tools.
+* Tested on Chrome,Firefox and Edge.
+* No issues related to the responsiveness.
+
+
 
 ### Validators
 
