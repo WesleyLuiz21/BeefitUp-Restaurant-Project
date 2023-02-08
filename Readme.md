@@ -165,7 +165,13 @@
 * Code was commited to the Github repository using ```git push```
 
 
-### 
+### Github Pages
+
+  * The website was deployed with Github pages following the steps below:
+     * Clicked in settings icon in the github repository and then clicked in the Pages section from the left side menu
+     * After that I had the option to select the Source, a branch and the root folder.
+     * After I got back to Github pages and there was a link displayed to see the live website
+     * The live link can be found [here](https://wesleyluiz21.github.io/BeefitUp-Restaurant-Project/)
 
 ## Bugs/Errors
 
@@ -269,7 +275,7 @@
   ### Code Related
 
   * Stackoverflow and Bootstrap 5 documentation were used to solve all issues/bugs.
-  * ChatGPT(or OpenIA) was used to generate random adresses in central london and restaurant description/about/goal in the About Section and then tweaked to fit the website/design(It was quite handy!).
+  * ChatGPT(or OpenIA) was used to generate random adresses in central london and restaurant description/about/goals in the About Section and then tweaked to fit the website/design(It was quite handy!).
   * CSS Prefixes code were taken from the [Autoprefixer](https://autoprefixer.github.io/) website.
   * Template code for the carousel section taken from the Bootstrap 5 documentation and tweaked to suit the site needs.
 
